@@ -1,4 +1,4 @@
-// Data proyek
+
 const projects = [
   { title: "Website Portofolio", description: "Dibuat dengan HTML, CSS, dan JS modern." },
   { title: "Website Marketplace", description: "Web Market yang Berkualitas." },
@@ -9,6 +9,7 @@ const projects = [
 const socials = [
   { name: "Instagram", url: "https://www.instagram.com/jijily._/" },
   { name: "Github", url: " https://github.com/assaandi/web-dss"},
+  { name: "Whatsupp", url: "https://wa.me/6289690727306"},
 ];
 
 
